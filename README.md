@@ -9,7 +9,7 @@ I am a Director of Business Intelligence in the healthcare sector, specializing 
 - 🔭 I’m currently working on `Computer vision projects`
 - 🌱 I’m currently learning `Deep learning`
 - 😄 Pronouns: `He/Him`
-- 📫 How to reach me: [`LinkedIn`](www.linkedin.com/in/tinku-biswas) [`Email`](tinku_biswas@outlook.com)
+- 📫 How to reach me: [`LinkedIn`](https://www.linkedin.com/in/tinku-biswas/) [`Email`](tinku_biswas@outlook.com)
  
 
 <!--  
