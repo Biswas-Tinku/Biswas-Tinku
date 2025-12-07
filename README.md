@@ -12,36 +12,45 @@ I am a Director of Business Intelligence in the healthcare sector, specializing 
 - 📫 How to reach me: [`LinkedIn`](https://www.linkedin.com/in/tinku-biswas/) [`Email`](tinku_biswas@outlook.com)
  
 
-<!--  
 >## :notebook_with_decorative_cover: Projects
 <table>
     <tr>
         <td>
-            <a href="https://github.com/your-username/nlp-to-sql"><strong>ML Projects</strong></a><br/>
-            A project that transforms natural language queries into SQL commands, making data access easier for non-technical users.<br/>
+            <a href="https://github.com/Biswas-Tinku/ML_Projects"><strong>ML Projects</strong></a><br/>
+            This repository contains all the machine learning relating to regression and classification based problems. It contains project based on both supervised and unsupervised learning.<br/>
               <ul>
                   <li style="font-size: 14px; color: blue;">
                     <em >
-                      NLP
+                      Desc1
                     </em>
                   </li>
                   <li style="font-size: 14px; color: green;">
-                    SQL
+                    Desc1
                   </li>
                   <li style="font-size: 14px; color: orange;">
-                    DataAccess
+                    Desc1
                   </li>
               </ul> 
             <sub>
-              Tags: NLP | SQL
+              Tags: ML Algorithm | EDA
             </sub><br/>
         </td>
         <td>
-            <a href="https://github.com/your-username/forecasting-arima-sarima"><strong>AI Projects</strong></a><br>
-            Comprehensive time series forecasting using ARIMA and SARIMA models, aimed at improving decision-making through advanced analytics.
+            <a href="https://github.com/Biswas-Tinku/Automation"><strong>Automation Projects</strong></a><br>
+            This repository contains all process related automation projects. 
+            The automation are tipically done on python code and libraries and a UI interface is built on the top for easy ascessibility to user.<br/>
+              <ul>
+                  <li><em>Process automation is code on python with a UI layer built on top using Tkinter</em></li>
+                  <li><em>Interactive dashboard that can be hosted on a web server built on using Steamlit</em></li>
+                  <li><em>A web scrapping bot is buil using beautiful soup and selenuim with a user interface to authenticate using the user credentials </em></li>
+                  <!--<li><em></em></li> -->
+              </ul>
+            <sub>
+              Tags: Automation | Pandas | Tkinter | Steamlit | Selenium | Beautifulsoup
+            </sub><br/>
         </td>
     </tr>
-    <tr>
+<!--    <tr>
         <td>
             <a href="https://github.com/your-username/forecasting-arima-sarima"><strong>Pandas</strong></a><br>
             Comprehensive time series forecasting using ARIMA and SARIMA models, aimed at improving decision-making through advanced analytics.
