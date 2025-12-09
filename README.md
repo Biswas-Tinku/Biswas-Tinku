@@ -50,17 +50,25 @@ I am a Director of Business Intelligence in the healthcare sector, specializing 
             </sub><br/>
         </td>
     </tr>
-<!--    <tr>
+    <tr>
         <td>
-            <a href="https://github.com/your-username/forecasting-arima-sarima"><strong>Pandas</strong></a><br>
-            Comprehensive time series forecasting using ARIMA and SARIMA models, aimed at improving decision-making through advanced analytics.
-          place holder1
+            <a href="https://github.com/your-username/forecasting-arima-sarima"><strong>AI Projects</strong></a><br>
+            This repository contains AI project and AI agent. The project are created using LLM's and other AI agents.
+             <ul>
+                  <li><em>Levraging the power of LLM to built AI agent to simplify complex problems</em></li>
+                  <li><em></em></li>
+                  <li><em>A web scrapping bot is buil using beautiful soup and selenuim with a user interface to authenticate using the user credentials </em></li>
+                  <!--<li><em></em></li> -->
+              </ul>
+            <sub>
+              Tags: Automation | Pandas | Tkinter | Steamlit | Selenium | Beautifulsoup
+            </sub><br/>
         </td>
-        <td>
+<!--        <td>
             <a href="https://github.com/your-username/forecasting-arima-sarima"><strong>Deep learning</strong></a><br>
             Comprehensive time series forecasting using ARIMA and SARIMA models, aimed at improving decision-making through advanced analytics.place holder2
-        </td>
-    </tr> -->
+        </td> -->
+    </tr>
 </table>
 
 
