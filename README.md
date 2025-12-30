@@ -64,10 +64,17 @@ I am a Director of Business Intelligence in the healthcare sector, specializing 
               Tags: LLM | Gemini | Agents
             </sub><br/>
         </td>
-<!--        <td>
-            <a href="https://github.com/your-username/forecasting-arima-sarima"><strong>Deep learning</strong></a><br>
-            Comprehensive time series forecasting using ARIMA and SARIMA models, aimed at improving decision-making through advanced analytics.place holder2
-        </td> -->
+        <td>
+            <a href="https://github.com/Biswas-Tinku/DL_Projects"><strong>Deep learning</strong></a><br>
+            This repository contains all the project which are leveraging the power of artifical neural network in object identification. These project are more towards the computer vision and image identification, these concept can be utilized in various fields in developing better AI system and gagets, assist in security enhancement, self driving and object identifications etc.
+         <ul>
+              <li><em>Image idenfification using Artifical neural network and Convolutional neural network</em></li>
+              <!--<li><em></em></li> -->
+         </ul>
+         <sub>
+              Tags: ANN | CNN | RNN | Neural Network | Computer Vision | Tensor Flow
+         </sub><br/>
+        </td>
     </tr>
 </table>
 
@@ -88,6 +95,7 @@ I am a Director of Business Intelligence in the healthcare sector, specializing 
   <img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg"/>
   <img align="left" alt="Scikit-learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
   <img align="left" alt="Plotly" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/plotly/plotly-original.svg" />
+  <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" />
   <br />
   
   #### Visualization Tools
