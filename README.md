@@ -69,10 +69,11 @@ I am a Director of Business Intelligence in the healthcare sector, specializing 
             This repository contains all the project which are leveraging the power of artifical neural network in object identification. These project are more towards the computer vision and image identification, these concept can be utilized in various fields in developing better AI system and gagets, assist in security enhancement, self driving and object identifications etc.
          <ul>
               <li><em>Image idenfification using Artifical neural network and Convolutional neural network</em></li>
+              <li><em>Object identification from custom dataset using pre trained model using Transfer learning technique</em></li>
               <!--<li><em></em></li> -->
          </ul>
          <sub>
-              Tags: ANN | CNN | RNN | Neural Network | Computer Vision | Tensor Flow
+              Tags: ANN | CNN | RNN | Neural Network | Computer Vision | Tensor Flow | ResNet | VGG | MobileNet
          </sub><br/>
         </td>
     </tr>
