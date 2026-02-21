@@ -1,6 +1,6 @@
 ## 👨‍💼 Tinku Biswas 👋
 
-**`Business Intelligence` | `Data Science` | `Data science / ML` | `Gen AI` | `Agengtic AI`**
+**`Business Intelligence` | `Data Science` | `Deep learning` | `Machine Learning` | `Gen AI` | `Agengtic AI` | `Computer Vision`**
 
 >## About Me
 I am a Director of Business Intelligence in the healthcare sector, specializing in data analytics, data science, orchestration, and building AI/ML models. I am passionate about leveraging data to drive insights and support decision-making processes in healthcare (US RO analytics).
