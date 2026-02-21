@@ -145,15 +145,21 @@ mindmap
 
 >## 👨‍🎓 Qualifications & Certification
 
-- **Education:**
+#### Education:
 
   <img align ="left" width = "30px" style="padding-right:10px;" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.RGlZRA2Vm9ZDyftBQWcvRgHaHa%3Fpid%3DApi&f=1&ipt=0ca398f1bba8f9e62e3633eb586d81d8c340772e927b3c31e04e5778bb9be67e&ipo=images"> - Master of Science - Data Science(Persuing) ( Manipal University )
 
   <img align ="left" width = "30px" style="padding-right:10px;" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.VBxEipUTTf4Mgrs26EwNLQAAAA%3Fpid%3DApi&f=1&ipt=233aa42a07d673aafbf1887c427d8de69e136742a21879b1a790205b46c2d59c&ipo=images"> - BSc - Physic (Gauwahati University)
 
-<!--
-- **Certification:** 
-  - Certified by GeeksforGeeks in Data Structures & Algorithms -->
+
+#### Certification:
+
+  <img align ="left" width = "20px" style="padding-right:10px;" src = "https://media.geeksforgeeks.org/gfg-gg-logo.svg"> - Machine Learning, Deep Learning and Gen AI  
+  <img align ="left" width = "20px" style="padding-right:10px;" src = "https://images.ctfassets.net/00atxywtfxvd/2QeS5ysKMhZ3ZjiU2rGRJA/e15df94b265053ce8ded4f5e630241c8/cropped-android-chrome-512x512-1.png"> - Statistics for Genomic Data Science  
+  <img align ="left" width = "20px" style="padding-right:10px;" src = "https://images.ctfassets.net/00atxywtfxvd/2QeS5ysKMhZ3ZjiU2rGRJA/e15df94b265053ce8ded4f5e630241c8/cropped-android-chrome-512x512-1.png"> - Python for Genomic Data Science  
+  <img align ="left" width = "20px" style="padding-right:10px;" src = "https://images.ctfassets.net/00atxywtfxvd/2QeS5ysKMhZ3ZjiU2rGRJA/e15df94b265053ce8ded4f5e630241c8/cropped-android-chrome-512x512-1.png"> - A Crash Course in Data Science  
+  <img align ="left" width = "20px" style="padding-right:10px;" src = "https://images.ctfassets.net/00atxywtfxvd/2QeS5ysKMhZ3ZjiU2rGRJA/e15df94b265053ce8ded4f5e630241c8/cropped-android-chrome-512x512-1.png"> - Agile with Atlassian Jira  
+
 
 >## :electron: Interests
 Outside of my professional life, I have a keen interest in:
