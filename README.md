@@ -1,7 +1,6 @@
-## 🏄‍♂️Tinku Biswas 👋
+## 👨‍💼 Tinku Biswas 👋
 
-**`Business Intelligence | Data Science | AI/ML | Gen AI | Agengtic AI`**
-
+**`Business Intelligence` | `Data Science` | `Data science / ML` | `Gen AI` | `Agengtic AI`**
 
 >## About Me
 I am a Director of Business Intelligence in the healthcare sector, specializing in data analytics, data science, orchestration, and building AI/ML models. I am passionate about leveraging data to drive insights and support decision-making processes in healthcare (US RO analytics).
@@ -12,7 +11,7 @@ I am a Director of Business Intelligence in the healthcare sector, specializing 
 - 📫 How to reach me: [`LinkedIn`](https://www.linkedin.com/in/tinku-biswas/) [`Email`](tinku_biswas@outlook.com)
  
 
->## :notebook_with_decorative_cover: Projects
+>## 📔 Projects
 <table>
     <tr>
         <td>
@@ -113,15 +112,45 @@ I am a Director of Business Intelligence in the healthcare sector, specializing 
   <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/flask/flask-original.svg"/>
   <br />
 
+>## 🛠️ Skills
+```mermaid
+mindmap
+    root)skills(
+        ((Languages))
+            (Python)
+            (R Languages)
+            (MY SQL)
+            (Big Query)
+            (Oracle SQL)
+        ((Dashboard))
+            (Tableau)
+            (Looker studio)
+            (streamlit)
+        ((Frameworks
+        Libraries))
+            (Flask)
+            (Selenium)            
+        ((ML, 
+        Data science))
+            (sklearn)
+            (Tensor flow)
+            (Pytorch)
+        ((Agentic AI/
+        Framework))
+            (n8n)
+            (Make)
+            (Crew AI)
+```
 
->## 👨‍🎓: Qualifications & Certification
-<!--
-- **Certification:** 
-  - Certified by GeeksforGeeks in Data Structures & Algorithms -->
+
+>## 👨‍🎓 Qualifications & Certification
+
 - **Education:**
   - Postgraduate Degree in Data Science from Manipal University (Persuing)
   - Graduation Degree in Physic from Gauwahati University
-
+<!--
+- **Certification:** 
+  - Certified by GeeksforGeeks in Data Structures & Algorithms -->
 
 >## :electron: Interests
 Outside of my professional life, I have a keen interest in:
@@ -154,4 +183,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [Tinku's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiswasTinku&show_icons=true&theme=radical)
+
+
+<div align="left">
+  <a href="https://pypi.python.org/pypi/ai-data-science-team"><img src="https://img.shields.io/pypi/v/ai-data-science-team.svg?style=for-the-badge" alt="PyPI"></a>
+  <a href="https://github.com/business-science/ai-data-science-team"><img src="https://img.shields.io/pypi/pyversions/ai-data-science-team.svg?style=for-the-badge" alt="versions"></a>
+  <a href="https://github.com/business-science/ai-data-science-team/blob/main/LICENSE"><img src="https://img.shields.io/github/license/business-science/ai-data-science-team.svg?style=for-the-badge" alt="license"></a>
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/business-science/ai-data-science-team?style=for-the-badge">
+</div>
+
 -->
+
+
+
+
