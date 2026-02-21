@@ -146,8 +146,11 @@ mindmap
 >## 👨‍🎓 Qualifications & Certification
 
 - **Education:**
-  - Postgraduate Degree in Data Science from Manipal University (Persuing)
-  - Graduation Degree in Physic from Gauwahati University
+
+  <img align ="left" width = "30px" style="padding-right:10px;" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.RGlZRA2Vm9ZDyftBQWcvRgHaHa%3Fpid%3DApi&f=1&ipt=0ca398f1bba8f9e62e3633eb586d81d8c340772e927b3c31e04e5778bb9be67e&ipo=images"> - Master of Science - Data Science(Persuing) ( Manipal University )
+
+  <img align ="left" width = "30px" style="padding-right:10px;" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.VBxEipUTTf4Mgrs26EwNLQAAAA%3Fpid%3DApi&f=1&ipt=233aa42a07d673aafbf1887c427d8de69e136742a21879b1a790205b46c2d59c&ipo=images"> - BSc - Physic (Gauwahati University)
+
 <!--
 - **Certification:** 
   - Certified by GeeksforGeeks in Data Structures & Algorithms -->
