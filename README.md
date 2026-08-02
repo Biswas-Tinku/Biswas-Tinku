@@ -86,6 +86,8 @@ I am a Director of Business Intelligence in the healthcare sector, specializing 
   <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
   <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="left" alt="BigQuery" width="30px" style="padding-right:10px;" src="https://images.icon-icons.com/2699/PNG/512/google_bigquery_logo_icon_168150.png"/>
+  <img align="left" alt="BigQuery" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/3ac4c86f-cb1b-4541-a045-c818bb482efd" />
+
   <br />
   
   #### Data Science Libraries
