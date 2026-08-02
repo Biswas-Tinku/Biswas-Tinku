@@ -86,8 +86,7 @@ I am a Director of Business Intelligence in the healthcare sector, specializing 
   <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
   <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="left" alt="BigQuery" width="30px" style="padding-right:10px;" src="https://images.icon-icons.com/2699/PNG/512/google_bigquery_logo_icon_168150.png"/>
-  <img align="left" alt="BigQuery" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/3ac4c86f-cb1b-4541-a045-c818bb482efd" />
-
+  <img align="left" alt="SAS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374062/sas.svg" />
   <br />
   
   #### Data Science Libraries
@@ -98,12 +97,14 @@ I am a Director of Business Intelligence in the healthcare sector, specializing 
   <img align="left" alt="Scikit-learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
   <img align="left" alt="Plotly" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/plotly/plotly-original.svg" />
   <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" />
+  <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354240/pytorch.svg"/>
   <br />
   
   #### Visualization Tools
   <img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354428/tableau-icon.svg"/>
   <img align="left" alt="Looker" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354012/looker-icon.svg"/>
   <img align="left" alt="Streamlit" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/streamlit/streamlit-original.svg"/>
+  <img align="left" alt="PowerBI" width="20px" style="padding-right:10px;" src= "https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg"/>
   <br />
   
   #### Other Workflow Tools
