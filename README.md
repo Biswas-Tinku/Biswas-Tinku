@@ -1,9 +1,11 @@
 ## 👨‍💼 Tinku Biswas 👋
+<em style="color: blue;"><sub><small>Transforming US Healthcare Analytics into strategic growth through data science, intelligent orchestration, and scalable AI model.</small></sub></em>
 
 **`Business Intelligence` | `Data Science` | `Deep learning` | `Machine Learning` | `Gen AI` | `Agengtic AI` | `Computer Vision`**
 
 >## About Me
-I am a Director of Business Intelligence in the healthcare sector, specializing in data analytics, data science, orchestration, and building AI/ML models. I am passionate about leveraging data to drive insights and support decision-making processes in healthcare (US RO analytics).
+Strategic Business Intelligence and Data Analytics Leader driving growth in US Healthcare through data 
+science, AI-driven orchestration, and scalable modelling.
 
 - 🔭 I’m currently working on `Computer vision projects`
 - 🌱 I’m currently learning `Deep learning`
@@ -19,19 +21,19 @@ I am a Director of Business Intelligence in the healthcare sector, specializing 
             This repository contains all the machine learning relating to regression and classification based problems. It contains project based on both supervised and unsupervised learning.<br/>
               <ul>
                   <li style="font-size: 14px; color: blue;">
-                    <em >
-                      Desc1
+                    <em>
+                      Machine learning algorithm for regression and classification problems
                     </em>
                   </li>
                   <li style="font-size: 14px; color: green;">
-                    Desc1
+                    <em>Time series analysis and forcasting.</em>
                   </li>
                   <li style="font-size: 14px; color: orange;">
-                    Desc1
+                    <em>Data preprocessing, EDA, Feature extraction, Feature selection.</em>
                   </li>
-              </ul> 
+              </ul>
             <sub>
-              Tags: ML Algorithm | EDA
+              Tags: ML Algorithm | EDA | PCA 
             </sub><br/>
         </td>
         <td>
@@ -125,10 +127,12 @@ mindmap
             (MY SQL)
             (Big Query)
             (Oracle SQL)
+            (SAS)
         ((Dashboard))
             (Tableau)
             (Looker studio)
             (streamlit)
+            (Power BI)
         ((Frameworks
         Libraries))
             (Flask)
@@ -150,7 +154,7 @@ mindmap
 
 #### Education:
 
-  <img align ="left" width = "30px" style="padding-right:10px;" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.RGlZRA2Vm9ZDyftBQWcvRgHaHa%3Fpid%3DApi&f=1&ipt=0ca398f1bba8f9e62e3633eb586d81d8c340772e927b3c31e04e5778bb9be67e&ipo=images"> - Master of Science - Data Science(Persuing) ( Manipal University )
+  <img align ="left" width = "30px" style="padding-right:10px;" src = "https://www.freelogovectors.net/wp-content/uploads/2023/11/manipal-academy-of-higher-education-logo-freelogovectors.net_.png"> - Master of Science - Data Science(Persuing) ( Manipal University )
 
   <img align ="left" width = "30px" style="padding-right:10px;" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.VBxEipUTTf4Mgrs26EwNLQAAAA%3Fpid%3DApi&f=1&ipt=233aa42a07d673aafbf1887c427d8de69e136742a21879b1a790205b46c2d59c&ipo=images"> - BSc - Physic (Gauwahati University)
 
