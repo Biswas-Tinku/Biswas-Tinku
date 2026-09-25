@@ -44,10 +44,10 @@ science, AI-driven orchestration, and scalable modelling.
                   <li><em>Process automation is code on python with a UI layer built on top using Tkinter</em></li>
                   <li><em>Interactive dashboard that can be hosted on a web server built on using Steamlit</em></li>
                   <li><em>A web scrapping bot is buil using beautiful soup and selenuim with a user interface to authenticate using the user credentials </em></li>
-                  <!--<li><em></em></li> -->
+                  <li><em>Hosting a local or centralized web server and deploy automation for the team that can be access using public url</em></li>
               </ul>
             <sub>
-              Tags: Automation | Pandas | Tkinter | Steamlit | Selenium | Beautifulsoup
+              Tags: Automation | Pandas | Tkinter | Steamlit | Selenium | Beautifulsoup | Gradio
             </sub><br/>
         </td>
     </tr>
